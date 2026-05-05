@@ -1,4 +1,4 @@
-## To deploy application run bootstap.sh script 
+## To deploy application run bootstrap.sh script 
 
 ### Validating:
 ### 1. Port-forward service
